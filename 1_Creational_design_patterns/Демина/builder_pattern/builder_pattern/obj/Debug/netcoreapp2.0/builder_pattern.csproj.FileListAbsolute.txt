@@ -1,0 +1,11 @@
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\bin\Debug\netcoreapp2.0\builder_pattern.deps.json
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\bin\Debug\netcoreapp2.0\builder_pattern.runtimeconfig.json
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\bin\Debug\netcoreapp2.0\builder_pattern.runtimeconfig.dev.json
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\bin\Debug\netcoreapp2.0\builder_pattern.dll
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\bin\Debug\netcoreapp2.0\builder_pattern.pdb
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\obj\Debug\netcoreapp2.0\builder_pattern.csprojResolveAssemblyReference.cache
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\obj\Debug\netcoreapp2.0\builder_pattern.csproj.CoreCompileInputs.cache
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\obj\Debug\netcoreapp2.0\builder_pattern.AssemblyInfoInputs.cache
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\obj\Debug\netcoreapp2.0\builder_pattern.AssemblyInfo.cs
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\obj\Debug\netcoreapp2.0\builder_pattern.dll
+E:\даша\3 курс\Кычкин\builder_pattern\builder_pattern\obj\Debug\netcoreapp2.0\builder_pattern.pdb

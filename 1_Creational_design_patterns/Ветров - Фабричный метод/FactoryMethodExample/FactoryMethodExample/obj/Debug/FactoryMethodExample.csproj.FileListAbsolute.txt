@@ -1,0 +1,7 @@
+c:\users\artem\source\repos\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe.config
+c:\users\artem\source\repos\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe
+c:\users\artem\source\repos\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.pdb
+c:\users\artem\source\repos\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csprojResolveAssemblyReference.cache
+c:\users\artem\source\repos\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csproj.CoreCompileInputs.cache
+c:\users\artem\source\repos\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.exe
+c:\users\artem\source\repos\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.pdb

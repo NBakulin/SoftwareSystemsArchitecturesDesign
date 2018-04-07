@@ -1,0 +1,2 @@
+class TransactionComplited : TransactionState {
+}

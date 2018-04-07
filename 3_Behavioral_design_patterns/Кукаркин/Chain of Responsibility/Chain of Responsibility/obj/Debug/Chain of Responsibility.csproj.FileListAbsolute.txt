@@ -1,0 +1,7 @@
+F:\Учеба\3 курс\Архитектура\Лаба 3\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.csprojResolveAssemblyReference.cache
+F:\Учеба\3 курс\Архитектура\Лаба 3\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.csproj.CoreCompileInputs.cache
+F:\Учеба\3 курс\Архитектура\Лаба 3\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe.config
+F:\Учеба\3 курс\Архитектура\Лаба 3\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe
+F:\Учеба\3 курс\Архитектура\Лаба 3\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.pdb
+F:\Учеба\3 курс\Архитектура\Лаба 3\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.exe
+F:\Учеба\3 курс\Архитектура\Лаба 3\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.pdb

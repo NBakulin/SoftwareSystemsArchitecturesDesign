@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Lazy1\Lazy1\bin\Debug\Lazy1.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Lazy1\Lazy1\bin\Debug\Lazy1.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Lazy1\Lazy1\bin\Debug\Lazy1.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Lazy1\Lazy1\obj\Debug\Lazy1.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Lazy1\Lazy1\obj\Debug\Lazy1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Lazy1\Lazy1\obj\Debug\Lazy1.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\Lazy1\Lazy1\obj\Debug\Lazy1.pdb

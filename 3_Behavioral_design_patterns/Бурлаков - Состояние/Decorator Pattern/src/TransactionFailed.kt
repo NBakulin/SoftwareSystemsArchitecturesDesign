@@ -1,0 +1,3 @@
+class TransactionFailed: TransactionState {
+
+}

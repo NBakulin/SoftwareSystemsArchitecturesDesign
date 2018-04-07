@@ -1,0 +1,8 @@
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\bin\Debug\AbstractFactoryRealExample.exe.config
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\bin\Debug\AbstractFactoryRealExample.exe
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\bin\Debug\AbstractFactoryRealExample.pdb
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\obj\Debug\AbstractFactoryRealExample.csprojResolveAssemblyReference.cache
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\obj\Debug\AbstractFactoryRealExample.exe
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\obj\Debug\AbstractFactoryRealExample.pdb
+C:\Users\ketov_000\Documents\Visual Studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\bin\Debug\ReadWritersLibrary.dll
+C:\Users\ketov_000\Documents\Visual Studio 2015\Projects\AbstractFactoryRealExample\AbstractFactoryRealExample\bin\Debug\ReadWritersLibrary.pdb

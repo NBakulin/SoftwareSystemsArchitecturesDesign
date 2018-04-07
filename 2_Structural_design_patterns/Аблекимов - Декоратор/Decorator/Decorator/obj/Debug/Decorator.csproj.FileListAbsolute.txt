@@ -1,0 +1,6 @@
+C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Flyweight\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Flyweight\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Flyweight\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Flyweight\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Flyweight\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Flyweight\Decorator\Decorator\obj\Debug\Decorator.pdb

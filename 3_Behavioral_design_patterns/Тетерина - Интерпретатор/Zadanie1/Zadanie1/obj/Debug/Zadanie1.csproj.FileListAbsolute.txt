@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Tados\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Users\User\Desktop\Tados\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Users\User\Desktop\Tados\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Users\User\Desktop\Tados\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tados\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Users\User\Desktop\Tados\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+F:\arch\поведенческие паттерны\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+F:\arch\поведенческие паттерны\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+F:\arch\поведенческие паттерны\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+F:\arch\поведенческие паттерны\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+F:\arch\поведенческие паттерны\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+F:\arch\поведенческие паттерны\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache

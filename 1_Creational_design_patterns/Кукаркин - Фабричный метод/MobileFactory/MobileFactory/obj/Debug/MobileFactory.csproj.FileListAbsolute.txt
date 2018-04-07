@@ -1,0 +1,6 @@
+F:\Учеба\3 курс\Архитектура\Лаба 1\MobileFactory\MobileFactory\bin\Debug\MobileFactory.exe.config
+F:\Учеба\3 курс\Архитектура\Лаба 1\MobileFactory\MobileFactory\bin\Debug\MobileFactory.exe
+F:\Учеба\3 курс\Архитектура\Лаба 1\MobileFactory\MobileFactory\bin\Debug\MobileFactory.pdb
+F:\Учеба\3 курс\Архитектура\Лаба 1\MobileFactory\MobileFactory\obj\Debug\MobileFactory.csprojResolveAssemblyReference.cache
+F:\Учеба\3 курс\Архитектура\Лаба 1\MobileFactory\MobileFactory\obj\Debug\MobileFactory.exe
+F:\Учеба\3 курс\Архитектура\Лаба 1\MobileFactory\MobileFactory\obj\Debug\MobileFactory.pdb

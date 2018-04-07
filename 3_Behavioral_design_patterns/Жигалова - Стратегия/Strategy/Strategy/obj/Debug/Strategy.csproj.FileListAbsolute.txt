@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\user\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\user\source\repos\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\user\source\repos\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\user\source\repos\Strategy\Strategy\obj\Debug\Strategy.pdb

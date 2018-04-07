@@ -1,0 +1,5 @@
+C:\Users\ketov_000\Documents\Visual Studio 2015\Projects\AbstractFactoryRealExample\ReadWritersLibrary\bin\Debug\ReadWritersLibrary.dll
+C:\Users\ketov_000\Documents\Visual Studio 2015\Projects\AbstractFactoryRealExample\ReadWritersLibrary\bin\Debug\ReadWritersLibrary.pdb
+C:\Users\ketov_000\Documents\Visual Studio 2015\Projects\AbstractFactoryRealExample\ReadWritersLibrary\obj\Debug\ReadWritersLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ketov_000\Documents\Visual Studio 2015\Projects\AbstractFactoryRealExample\ReadWritersLibrary\obj\Debug\ReadWritersLibrary.dll
+C:\Users\ketov_000\Documents\Visual Studio 2015\Projects\AbstractFactoryRealExample\ReadWritersLibrary\obj\Debug\ReadWritersLibrary.pdb

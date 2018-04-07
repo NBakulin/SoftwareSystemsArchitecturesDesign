@@ -1,0 +1,9 @@
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\LocalUser\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+F:\Лабораторные ПИ-15-1\Юрин М.А. - Factory method\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+F:\Лабораторные ПИ-15-1\Юрин М.А. - Factory method\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+F:\Лабораторные ПИ-15-1\Юрин М.А. - Factory method\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

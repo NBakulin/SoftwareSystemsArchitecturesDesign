@@ -1,0 +1,3 @@
+First ReadWriter's hello
+text of input file wrote by second ReadWriter
+second ReadWriter's hello

@@ -1,0 +1,6 @@
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryProject\AbstractFactoryProject\bin\Debug\AbstractFactoryProject.exe.config
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryProject\AbstractFactoryProject\bin\Debug\AbstractFactoryProject.exe
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryProject\AbstractFactoryProject\bin\Debug\AbstractFactoryProject.pdb
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryProject\AbstractFactoryProject\obj\Debug\AbstractFactoryProject.csprojResolveAssemblyReference.cache
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryProject\AbstractFactoryProject\obj\Debug\AbstractFactoryProject.exe
+c:\users\ketov_000\documents\visual studio 2015\Projects\AbstractFactoryProject\AbstractFactoryProject\obj\Debug\AbstractFactoryProject.pdb
