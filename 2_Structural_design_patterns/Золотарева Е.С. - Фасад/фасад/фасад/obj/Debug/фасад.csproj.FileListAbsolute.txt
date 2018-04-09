@@ -1,7 +1,0 @@
-c:\users\екатерина золотарева\documents\visual studio 2015\Projects\фасад\фасад\bin\Debug\фасад.exe.config
-F:\Кычкин\фасад\фасад\bin\Debug\фасад.exe.config
-F:\Кычкин\фасад\фасад\bin\Debug\фасад.exe
-F:\Кычкин\фасад\фасад\bin\Debug\фасад.pdb
-F:\Кычкин\фасад\фасад\obj\Debug\фасад.csprojResolveAssemblyReference.cache
-F:\Кычкин\фасад\фасад\obj\Debug\фасад.exe
-F:\Кычкин\фасад\фасад\obj\Debug\фасад.pdb

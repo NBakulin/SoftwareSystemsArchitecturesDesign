@@ -1,7 +1,0 @@
-D:\YandexDisk\HSE\3 Курс\Проектирование архитектуры программных систем\Lazy\Lazy\bin\Debug\Lazy.exe.config
-D:\YandexDisk\HSE\3 Курс\Проектирование архитектуры программных систем\Lazy\Lazy\bin\Debug\Lazy.exe
-D:\YandexDisk\HSE\3 Курс\Проектирование архитектуры программных систем\Lazy\Lazy\bin\Debug\Lazy.pdb
-D:\YandexDisk\HSE\3 Курс\Проектирование архитектуры программных систем\Lazy\Lazy\obj\Debug\Lazy.csprojResolveAssemblyReference.cache
-D:\YandexDisk\HSE\3 Курс\Проектирование архитектуры программных систем\Lazy\Lazy\obj\Debug\Lazy.csproj.CoreCompileInputs.cache
-D:\YandexDisk\HSE\3 Курс\Проектирование архитектуры программных систем\Lazy\Lazy\obj\Debug\Lazy.exe
-D:\YandexDisk\HSE\3 Курс\Проектирование архитектуры программных систем\Lazy\Lazy\obj\Debug\Lazy.pdb

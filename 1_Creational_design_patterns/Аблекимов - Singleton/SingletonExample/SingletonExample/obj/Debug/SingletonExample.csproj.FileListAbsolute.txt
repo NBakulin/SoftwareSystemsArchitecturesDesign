@@ -1,6 +1,0 @@
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe.config
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\SingletonExample\SingletonExample\bin\Debug\SingletonExample.pdb
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\SingletonExample\SingletonExample\obj\Debug\SingletonExample.csprojResolveAssemblyReference.cache
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\SingletonExample\SingletonExample\obj\Debug\SingletonExample.exe
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\SingletonExample\SingletonExample\obj\Debug\SingletonExample.pdb

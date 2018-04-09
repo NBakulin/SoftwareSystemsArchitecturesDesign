@@ -1,7 +1,0 @@
-D:\ВШЭ\3 курс\Проектирование архитектуры\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-D:\ВШЭ\3 курс\Проектирование архитектуры\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
-D:\ВШЭ\3 курс\Проектирование архитектуры\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
-D:\ВШЭ\3 курс\Проектирование архитектуры\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
-D:\ВШЭ\3 курс\Проектирование архитектуры\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
-D:\ВШЭ\3 курс\Проектирование архитектуры\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
-D:\ВШЭ\3 курс\Проектирование архитектуры\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
