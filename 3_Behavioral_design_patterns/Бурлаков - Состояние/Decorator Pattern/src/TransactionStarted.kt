@@ -1,0 +1,3 @@
+class TransactionStarted : TransactionState {
+
+}
