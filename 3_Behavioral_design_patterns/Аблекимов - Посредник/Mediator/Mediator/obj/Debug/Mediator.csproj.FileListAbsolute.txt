@@ -1,7 +1,0 @@
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Mediator\Mediator\Mediator\bin\Debug\Mediator.exe.config
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Mediator\Mediator\Mediator\bin\Debug\Mediator.exe
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Mediator\Mediator\Mediator\bin\Debug\Mediator.pdb
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Mediator\Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Mediator\Mediator\Mediator\obj\Debug\Mediator.exe
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Mediator\Mediator\Mediator\obj\Debug\Mediator.pdb
-C:\Users\АблекимовЭдуардМарат\Dropbox\Шаблоны\Mediator\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache

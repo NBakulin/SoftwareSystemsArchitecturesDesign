@@ -1,6 +1,0 @@
-c:\users\ketov_000\documents\visual studio 2015\Projects\TreeEnumerator\TreeEnumerator\bin\Release\TreeEnumerator.exe.config
-c:\users\ketov_000\documents\visual studio 2015\Projects\TreeEnumerator\TreeEnumerator\bin\Release\TreeEnumerator.exe
-c:\users\ketov_000\documents\visual studio 2015\Projects\TreeEnumerator\TreeEnumerator\bin\Release\TreeEnumerator.pdb
-c:\users\ketov_000\documents\visual studio 2015\Projects\TreeEnumerator\TreeEnumerator\obj\Release\TreeEnumerator.csprojResolveAssemblyReference.cache
-c:\users\ketov_000\documents\visual studio 2015\Projects\TreeEnumerator\TreeEnumerator\obj\Release\TreeEnumerator.exe
-c:\users\ketov_000\documents\visual studio 2015\Projects\TreeEnumerator\TreeEnumerator\obj\Release\TreeEnumerator.pdb

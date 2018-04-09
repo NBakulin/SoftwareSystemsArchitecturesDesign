@@ -1,6 +1,0 @@
-F:\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.exe.config
-F:\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.exe
-F:\PatternBuilder\PatternBuilder\bin\Debug\PatternBuilder.pdb
-F:\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.csprojResolveAssemblyReference.cache
-F:\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.exe
-F:\PatternBuilder\PatternBuilder\obj\Debug\PatternBuilder.pdb

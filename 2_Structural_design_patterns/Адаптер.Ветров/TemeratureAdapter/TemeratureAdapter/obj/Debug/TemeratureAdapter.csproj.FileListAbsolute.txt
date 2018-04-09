@@ -1,7 +1,0 @@
-c:\users\artem\source\repos\TemeratureAdapter\TemeratureAdapter\bin\Debug\TemeratureAdapter.exe.config
-c:\users\artem\source\repos\TemeratureAdapter\TemeratureAdapter\bin\Debug\TemeratureAdapter.exe
-c:\users\artem\source\repos\TemeratureAdapter\TemeratureAdapter\bin\Debug\TemeratureAdapter.pdb
-c:\users\artem\source\repos\TemeratureAdapter\TemeratureAdapter\obj\Debug\TemeratureAdapter.csprojResolveAssemblyReference.cache
-c:\users\artem\source\repos\TemeratureAdapter\TemeratureAdapter\obj\Debug\TemeratureAdapter.csproj.CoreCompileInputs.cache
-c:\users\artem\source\repos\TemeratureAdapter\TemeratureAdapter\obj\Debug\TemeratureAdapter.exe
-c:\users\artem\source\repos\TemeratureAdapter\TemeratureAdapter\obj\Debug\TemeratureAdapter.pdb

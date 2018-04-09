@@ -1,7 +1,0 @@
-C:\Users\gikap\OneDrive\Документы\3 курс\БД\Patterns\Patterns\bin\Debug\Patterns.exe.config
-C:\Users\gikap\OneDrive\Документы\3 курс\Проектирование\Patterns\Patterns\bin\Debug\Patterns.exe.config
-C:\Users\gikap\OneDrive\Документы\3 курс\Проектирование\Patterns\Patterns\bin\Debug\Patterns.exe
-C:\Users\gikap\OneDrive\Документы\3 курс\Проектирование\Patterns\Patterns\bin\Debug\Patterns.pdb
-C:\Users\gikap\OneDrive\Документы\3 курс\Проектирование\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
-C:\Users\gikap\OneDrive\Документы\3 курс\Проектирование\Patterns\Patterns\obj\Debug\Patterns.exe
-C:\Users\gikap\OneDrive\Документы\3 курс\Проектирование\Patterns\Patterns\obj\Debug\Patterns.pdb
